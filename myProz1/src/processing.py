@@ -19,7 +19,8 @@ def get_processed_df(df: DataFrame):
 
         clean_df = df.withColumnRenamed("admin_name","state")\
                     .drop("admin")\
-                    .groupBy("state").agg(sum(col("population")))
+                    .groupBy("state").agg(sum(col("population")).alias("total_population"))\
+                    .orderBy("total_population")
 
 
         logger.info(f"Successfully processed: {clean_df.count()}")
