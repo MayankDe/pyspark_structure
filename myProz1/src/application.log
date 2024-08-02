@@ -1,0 +1,1691 @@
+2024-08-02 10:58:10 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 10:58:10 - Create_spark - INFO - master is local[*]
+2024-08-02 10:58:19 - root - INFO - I am in the main method
+2024-08-02 10:58:19 - root - INFO - Object created! 3.5.0
+2024-08-02 10:58:19 - root - INFO - Validating spark object
+2024-08-02 10:58:19 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 10:58:23 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 10:58:23 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:05:39 - root - INFO - Logging configured successfully.
+2024-08-02 11:05:39 - root - DEBUG - This is a debug message.
+2024-08-02 11:05:39 - root - WARNING - This is a warning message.
+2024-08-02 11:05:39 - root - ERROR - This is an error message.
+2024-08-02 11:05:39 - root - CRITICAL - This is a critical message.
+2024-08-02 11:09:36 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:09:36 - Create_spark - INFO - master is local[*]
+2024-08-02 11:09:52 - root - INFO - I am in the main method
+2024-08-02 11:09:52 - root - INFO - Object created! 3.5.0
+2024-08-02 11:09:52 - root - INFO - Validating spark object
+2024-08-02 11:09:52 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:10:01 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:10:01 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:20:00 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:20:00 - Create_spark - INFO - master is local[*]
+2024-08-02 11:20:16 - root - INFO - I am in the main method
+2024-08-02 11:20:16 - root - INFO - Object created! 3.5.0
+2024-08-02 11:20:16 - root - INFO - Validating spark object
+2024-08-02 11:20:16 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:20:25 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:20:25 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:20:25 - root - ERROR - An error occurred when calling main() method. Please check the trace: [WinError 3] The system cannot find the path specified: 'C:\\Users\\MAYANK\\Desktop\\pyProz\\myProz1\\src\\src\\source\\src_olap'
+2024-08-02 11:22:02 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:22:02 - Create_spark - INFO - master is local[*]
+2024-08-02 11:22:16 - root - INFO - I am in the main method
+2024-08-02 11:22:16 - root - INFO - Object created! 3.5.0
+2024-08-02 11:22:16 - root - INFO - Validating spark object
+2024-08-02 11:22:16 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:22:23 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:22:23 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:25:31 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:25:31 - Create_spark - INFO - master is local[*]
+2024-08-02 11:25:45 - root - INFO - I am in the main method
+2024-08-02 11:25:45 - root - INFO - Object created! 3.5.0
+2024-08-02 11:25:45 - root - INFO - Validating spark object
+2024-08-02 11:25:45 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:25:54 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:25:54 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:27:24 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:27:24 - Create_spark - INFO - master is local[*]
+2024-08-02 11:27:40 - root - INFO - I am in the main method
+2024-08-02 11:27:40 - root - INFO - Object created! 3.5.0
+2024-08-02 11:27:40 - root - INFO - Validating spark object
+2024-08-02 11:27:40 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:27:48 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:27:48 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:58:37 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:58:37 - Create_spark - INFO - master is local[*]
+2024-08-02 11:58:49 - root - INFO - I am in the main method
+2024-08-02 11:58:49 - root - INFO - Object created! 3.5.0
+2024-08-02 11:58:49 - root - INFO - Validating spark object
+2024-08-02 11:58:49 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:58:59 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:58:59 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:58:59 - root - INFO - Reading file which is of csv >
+2024-08-02 11:58:59 - root - ERROR - An error occurred when calling main() method. Please check the trace: load_file() got an unexpected keyword argument 'hedaer'
+2024-08-02 11:59:32 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 11:59:32 - Create_spark - INFO - master is local[*]
+2024-08-02 11:59:42 - root - INFO - I am in the main method
+2024-08-02 11:59:42 - root - INFO - Object created! 3.5.0
+2024-08-02 11:59:42 - root - INFO - Validating spark object
+2024-08-02 11:59:42 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 11:59:49 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 11:59:49 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 11:59:49 - root - INFO - Reading file which is of csv >
+2024-08-02 11:59:49 - root - ERROR - An error occurred when calling main() method. Please check the trace: load_file() got an unexpected keyword argument 'haeder'
+2024-08-02 12:02:16 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:02:16 - Create_spark - INFO - master is local[*]
+2024-08-02 12:02:25 - root - INFO - I am in the main method
+2024-08-02 12:02:25 - root - INFO - Object created! 3.5.0
+2024-08-02 12:02:25 - root - INFO - Validating spark object
+2024-08-02 12:02:25 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:02:33 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:02:33 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:02:33 - root - INFO - Reading file which is of csv >
+2024-08-02 12:02:33 - Ingest - WARNING - load_file method is strated.....
+2024-08-02 12:02:33 - root - ERROR - An error occurred when calling main() method. Please check the trace: DataFrameReader.option() got an unexpected keyword argument 'header'
+2024-08-02 12:04:29 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:04:29 - Create_spark - INFO - master is local[*]
+2024-08-02 12:04:39 - root - INFO - I am in the main method
+2024-08-02 12:04:39 - root - INFO - Object created! 3.5.0
+2024-08-02 12:04:39 - root - INFO - Validating spark object
+2024-08-02 12:04:39 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:04:45 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:04:45 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:04:45 - root - INFO - Reading file which is of csv >
+2024-08-02 12:04:45 - Ingest - WARNING - load_file method is strated.....
+2024-08-02 12:04:45 - root - ERROR - An error occurred when calling main() method. Please check the trace: DataFrameReader.option() got an unexpected keyword argument 'header'
+2024-08-02 12:06:20 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:06:20 - Create_spark - INFO - master is local[*]
+2024-08-02 12:06:32 - root - INFO - I am in the main method
+2024-08-02 12:06:32 - root - INFO - Object created! 3.5.0
+2024-08-02 12:06:32 - root - INFO - Validating spark object
+2024-08-02 12:06:32 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:06:45 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:06:45 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:06:45 - root - INFO - Reading file which is of csv >
+2024-08-02 12:06:45 - Ingest - WARNING - load_file method is strated.....
+2024-08-02 12:06:45 - root - ERROR - An error occurred when calling main() method. Please check the trace: DataFrameReader.option() got an unexpected keyword argument 'header'
+2024-08-02 12:09:31 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:09:31 - Create_spark - INFO - master is local[*]
+2024-08-02 12:09:40 - root - INFO - I am in the main method
+2024-08-02 12:09:40 - root - INFO - Object created! 3.5.0
+2024-08-02 12:09:40 - root - INFO - Validating spark object
+2024-08-02 12:09:40 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:09:48 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:09:48 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:09:48 - root - INFO - Reading file which is of csv >
+2024-08-02 12:09:48 - Ingest - WARNING - load_file method is strated.....
+2024-08-02 12:09:48 - root - ERROR - An error occurred when calling main() method. Please check the trace: DataFrameReader.option() got an unexpected keyword argument 'header'
+2024-08-02 12:12:21 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:12:21 - Create_spark - INFO - master is local[*]
+2024-08-02 12:12:31 - root - INFO - I am in the main method
+2024-08-02 12:12:31 - root - INFO - Object created! 3.5.0
+2024-08-02 12:12:31 - root - INFO - Validating spark object
+2024-08-02 12:12:31 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:12:39 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:12:39 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:12:39 - root - INFO - Reading file which is of csv >
+2024-08-02 12:12:39 - Ingest - WARNING - load_file method is started.....
+2024-08-02 12:12:44 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 12:12:44 - root - INFO - display df is called >
+2024-08-02 12:41:22 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:41:22 - Create_spark - INFO - master is local[*]
+2024-08-02 12:41:34 - root - INFO - I am in the main method
+2024-08-02 12:41:34 - root - INFO - Object created! 3.5.0
+2024-08-02 12:41:34 - root - INFO - Validating spark object
+2024-08-02 12:41:34 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:41:44 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:41:44 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:41:44 - root - INFO - Reading file which is of parquet >
+2024-08-02 12:41:44 - Ingest - WARNING - load_file method is started.....
+2024-08-02 12:41:46 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 12:41:46 - root - INFO - display df is called >
+2024-08-02 12:42:39 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:42:39 - Create_spark - INFO - master is local[*]
+2024-08-02 12:42:44 - root - INFO - I am in the main method
+2024-08-02 12:42:44 - root - INFO - Object created! 3.5.0
+2024-08-02 12:42:44 - root - INFO - Validating spark object
+2024-08-02 12:42:44 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:42:49 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:42:49 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:42:49 - root - INFO - Reading file which is of parquet >
+2024-08-02 12:42:49 - Ingest - WARNING - load_file method is started.....
+2024-08-02 12:42:49 - Ingest - ERROR - An error occurred at load_file === java.net.URISyntaxException: Expected scheme name at index 0: :
+2024-08-02 12:42:49 - root - ERROR - An error occurred when calling main() method. Please check the trace: java.net.URISyntaxException: Expected scheme name at index 0: :
+2024-08-02 12:44:47 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 12:44:47 - Create_spark - INFO - master is local[*]
+2024-08-02 12:44:53 - root - INFO - I am in the main method
+2024-08-02 12:44:53 - root - INFO - Object created! 3.5.0
+2024-08-02 12:44:53 - root - INFO - Validating spark object
+2024-08-02 12:44:53 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 12:44:58 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 12:44:58 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 12:44:58 - root - INFO - Reading file which is of parquet >
+2024-08-02 12:44:58 - Ingest - WARNING - load_file method is started.....
+2024-08-02 12:44:58 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 12:44:58 - root - INFO - display df is called >
+2024-08-02 13:02:33 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:02:33 - Create_spark - INFO - master is local[*]
+2024-08-02 13:02:43 - root - INFO - I am in the main method
+2024-08-02 13:02:43 - root - INFO - Object created! 3.5.0
+2024-08-02 13:02:43 - root - INFO - Validating spark object
+2024-08-02 13:02:43 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:02:48 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:02:48 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:02:48 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:02:48 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:02:49 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:02:49 - root - INFO - display df is called >
+2024-08-02 13:07:14 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:07:14 - Create_spark - INFO - master is local[*]
+2024-08-02 13:07:31 - root - INFO - I am in the main method
+2024-08-02 13:07:31 - root - INFO - Object created! 3.5.0
+2024-08-02 13:07:31 - root - INFO - Validating spark object
+2024-08-02 13:07:31 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:07:35 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:07:35 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:07:35 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:07:35 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:07:36 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:07:36 - root - INFO - display df is called >
+2024-08-02 13:08:46 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:08:46 - Create_spark - INFO - master is local[*]
+2024-08-02 13:08:55 - root - INFO - I am in the main method
+2024-08-02 13:08:55 - root - INFO - Object created! 3.5.0
+2024-08-02 13:08:55 - root - INFO - Validating spark object
+2024-08-02 13:08:55 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:08:59 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:08:59 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:08:59 - root - ERROR - An error occurred when calling main() method. Please check the trace: module 'get_env_variables' has no attribute 'src_olap1'
+2024-08-02 13:17:21 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:17:21 - Create_spark - INFO - master is local[*]
+2024-08-02 13:17:31 - root - INFO - I am in the main method
+2024-08-02 13:17:31 - root - INFO - Object created! 3.5.0
+2024-08-02 13:17:31 - root - INFO - Validating spark object
+2024-08-02 13:17:31 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:17:38 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:17:38 - Create_spark - INFO - master is local[*]
+2024-08-02 13:17:48 - root - INFO - I am in the main method
+2024-08-02 13:17:48 - root - INFO - Object created! 3.5.0
+2024-08-02 13:17:48 - root - INFO - Validating spark object
+2024-08-02 13:17:48 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:17:52 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:17:52 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:17:52 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:17:52 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:17:52 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:17:52 - Ingest - ERROR - An error occurred at load_file === [PATH_NOT_FOUND] Path does not exist: file:/C:/Users/MAYANK/Desktop/pyProz/myProz1/src/source/src_olap/in.csv.
+2024-08-02 13:17:52 - root - ERROR - An error occurred when calling main() method. Please check the trace: [PATH_NOT_FOUND] Path does not exist: file:/C:/Users/MAYANK/Desktop/pyProz/myProz1/src/source/src_olap/in.csv.
+2024-08-02 13:18:32 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:18:32 - Create_spark - INFO - master is local[*]
+2024-08-02 13:18:41 - root - INFO - I am in the main method
+2024-08-02 13:18:41 - root - INFO - Object created! 3.5.0
+2024-08-02 13:18:41 - root - INFO - Validating spark object
+2024-08-02 13:18:41 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:18:45 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:18:45 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:18:45 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:18:45 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:18:45 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:18:47 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:18:47 - root - INFO - display df is called >
+2024-08-02 13:18:48 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:18:48 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:18:48 - root - INFO - display df is called >
+2024-08-02 13:20:29 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:20:29 - Create_spark - INFO - master is local[*]
+2024-08-02 13:20:38 - root - INFO - I am in the main method
+2024-08-02 13:20:38 - root - INFO - Object created! 3.5.0
+2024-08-02 13:20:38 - root - INFO - Validating spark object
+2024-08-02 13:20:38 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:20:42 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:20:42 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:20:42 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:20:42 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:20:42 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:20:44 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:20:44 - root - INFO - display df is called >
+2024-08-02 13:20:45 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:20:45 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:20:45 - root - INFO - display df is called >
+2024-08-02 13:21:26 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:21:26 - Create_spark - INFO - master is local[*]
+2024-08-02 13:21:36 - root - INFO - I am in the main method
+2024-08-02 13:21:36 - root - INFO - Object created! 3.5.0
+2024-08-02 13:21:36 - root - INFO - Validating spark object
+2024-08-02 13:21:36 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:21:40 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:21:40 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:21:40 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:21:40 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:21:40 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:21:42 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:21:42 - root - INFO - display df is called >
+2024-08-02 13:21:43 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:21:43 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:21:43 - root - INFO - display df is called >
+2024-08-02 13:23:23 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:23:23 - Create_spark - INFO - master is local[*]
+2024-08-02 13:23:32 - root - INFO - I am in the main method
+2024-08-02 13:23:32 - root - INFO - Object created! 3.5.0
+2024-08-02 13:23:32 - root - INFO - Validating spark object
+2024-08-02 13:23:32 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:23:37 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:23:37 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:23:37 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:23:37 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:23:37 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:23:39 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:23:39 - root - INFO - display df is called >
+2024-08-02 13:23:39 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:23:39 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:23:39 - root - INFO - display df is called >
+2024-08-02 13:24:38 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:24:38 - Create_spark - INFO - master is local[*]
+2024-08-02 13:24:49 - root - INFO - I am in the main method
+2024-08-02 13:24:49 - root - INFO - Object created! 3.5.0
+2024-08-02 13:24:49 - root - INFO - Validating spark object
+2024-08-02 13:24:49 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:24:53 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:24:53 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:24:53 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:24:53 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:24:53 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:24:55 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:24:55 - root - INFO - display df is called >
+2024-08-02 13:24:55 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:24:56 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:24:56 - root - INFO - display df is called >
+2024-08-02 13:25:16 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:25:16 - Create_spark - INFO - master is local[*]
+2024-08-02 13:25:25 - root - INFO - I am in the main method
+2024-08-02 13:25:25 - root - INFO - Object created! 3.5.0
+2024-08-02 13:25:25 - root - INFO - Validating spark object
+2024-08-02 13:25:25 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:25:29 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:25:29 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:25:29 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:25:29 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:25:29 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:25:31 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:25:31 - root - INFO - display df is called >
+2024-08-02 13:25:32 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:25:32 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:25:33 - root - ERROR - An error occurred when calling main() method. Please check the trace: 'int' object has no attribute 'collect'
+2024-08-02 13:26:10 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:26:10 - Create_spark - INFO - master is local[*]
+2024-08-02 13:26:20 - root - INFO - I am in the main method
+2024-08-02 13:26:20 - root - INFO - Object created! 3.5.0
+2024-08-02 13:26:20 - root - INFO - Validating spark object
+2024-08-02 13:26:20 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:26:24 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:26:24 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:26:24 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:26:24 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:26:24 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:26:26 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:26:26 - root - INFO - display df is called >
+2024-08-02 13:26:26 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:26:26 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:26:26 - root - INFO - display df is called >
+2024-08-02 13:27:58 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:27:58 - Create_spark - INFO - master is local[*]
+2024-08-02 13:28:07 - root - INFO - I am in the main method
+2024-08-02 13:28:07 - root - INFO - Object created! 3.5.0
+2024-08-02 13:28:07 - root - INFO - Validating spark object
+2024-08-02 13:28:07 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:28:12 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:28:12 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:28:12 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:28:12 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:28:12 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:28:13 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:28:13 - root - INFO - display df is called >
+2024-08-02 13:28:14 - root - INFO - display df is called {} >
+2024-08-02 13:28:14 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:28:14 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:28:14 - root - INFO - display df is called >
+2024-08-02 13:37:19 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:37:19 - Create_spark - INFO - master is local[*]
+2024-08-02 13:37:28 - root - INFO - I am in the main method
+2024-08-02 13:37:28 - root - INFO - Object created! 3.5.0
+2024-08-02 13:37:28 - root - INFO - Validating spark object
+2024-08-02 13:37:28 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:37:32 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:37:32 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:37:32 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:37:32 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:37:32 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:37:35 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:37:35 - root - INFO - display df is called >
+2024-08-02 13:37:35 - root - INFO - display df is called {} >
+2024-08-02 13:37:35 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:37:35 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:37:35 - root - INFO - display df is called >
+2024-08-02 13:37:35 - root - INFO - count df is called >
+2024-08-02 13:37:35 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 13:37:36 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 13:43:11 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:43:11 - Create_spark - INFO - master is local[*]
+2024-08-02 13:43:20 - root - INFO - I am in the main method
+2024-08-02 13:43:20 - root - INFO - Object created! 3.5.0
+2024-08-02 13:43:20 - root - INFO - Validating spark object
+2024-08-02 13:43:20 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:43:25 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:43:25 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:43:25 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:43:25 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:43:25 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:43:27 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:43:27 - root - INFO - display df is called >
+2024-08-02 13:43:27 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:43:28 - root - ERROR - An error occurred when calling main() method. Please check the trace: 'NoneType' object has no attribute 'show'
+2024-08-02 13:43:36 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:43:36 - Create_spark - INFO - master is local[*]
+2024-08-02 13:43:45 - root - INFO - I am in the main method
+2024-08-02 13:43:45 - root - INFO - Object created! 3.5.0
+2024-08-02 13:43:45 - root - INFO - Validating spark object
+2024-08-02 13:43:45 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:43:50 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:43:50 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:43:50 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:43:50 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:43:50 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:43:51 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:43:51 - root - INFO - display df is called >
+2024-08-02 13:43:51 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:43:52 - Ingest - WARNING -  None 
+2024-08-02 13:43:52 - root - INFO - display df is called {} >
+2024-08-02 13:43:52 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:43:52 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:43:52 - root - INFO - display df is called >
+2024-08-02 13:43:52 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 13:43:52 - Ingest - WARNING -  None 
+2024-08-02 13:43:52 - root - INFO - count df is called >
+2024-08-02 13:43:52 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 13:43:53 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 13:46:13 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:46:13 - Create_spark - INFO - master is local[*]
+2024-08-02 13:46:23 - root - INFO - I am in the main method
+2024-08-02 13:46:23 - root - INFO - Object created! 3.5.0
+2024-08-02 13:46:23 - root - INFO - Validating spark object
+2024-08-02 13:46:23 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:46:27 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:46:27 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:46:27 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:46:27 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:46:27 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:46:30 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:46:30 - root - INFO - display df is called >
+2024-08-02 13:46:30 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:46:30 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 13:49:54 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:49:54 - Create_spark - INFO - master is local[*]
+2024-08-02 13:50:03 - root - INFO - I am in the main method
+2024-08-02 13:50:03 - root - INFO - Object created! 3.5.0
+2024-08-02 13:50:03 - root - INFO - Validating spark object
+2024-08-02 13:50:03 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:50:07 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:50:07 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:50:07 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:50:07 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:50:07 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:50:10 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:50:10 - root - INFO - display df is called >
+2024-08-02 13:50:10 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:50:10 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 13:52:04 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:52:04 - Create_spark - INFO - master is local[*]
+2024-08-02 13:52:14 - root - INFO - I am in the main method
+2024-08-02 13:52:14 - root - INFO - Object created! 3.5.0
+2024-08-02 13:52:14 - root - INFO - Validating spark object
+2024-08-02 13:52:14 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:52:18 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:52:18 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:52:18 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:52:18 - root - INFO - Reading file2 which is of csv >
+2024-08-02 13:52:18 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:52:20 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:52:20 - root - INFO - display df is called >
+2024-08-02 13:52:20 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:52:20 - root - INFO - display df is called {} >
+2024-08-02 13:52:20 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:52:21 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:52:21 - root - INFO - display df is called >
+2024-08-02 13:52:21 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 13:52:21 - root - INFO - count df is called >
+2024-08-02 13:52:21 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 13:52:22 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 13:55:25 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:55:25 - Create_spark - INFO - master is local[*]
+2024-08-02 13:55:34 - root - INFO - I am in the main method
+2024-08-02 13:55:34 - root - INFO - Object created! 3.5.0
+2024-08-02 13:55:34 - root - INFO - Validating spark object
+2024-08-02 13:55:34 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:55:39 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:55:39 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:55:39 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:55:39 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 13:55:39 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:55:39 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:55:39 - root - INFO - display df is called >
+2024-08-02 13:55:39 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:55:42 - root - INFO - display df is called {} >
+2024-08-02 13:55:42 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:55:42 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 13:55:42 - root - INFO - display df is called >
+2024-08-02 13:55:42 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 13:55:42 - root - INFO - count df is called >
+2024-08-02 13:55:42 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 13:55:43 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 13:56:23 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:56:23 - Create_spark - INFO - master is local[*]
+2024-08-02 13:56:33 - root - INFO - I am in the main method
+2024-08-02 13:56:33 - root - INFO - Object created! 3.5.0
+2024-08-02 13:56:33 - root - INFO - Validating spark object
+2024-08-02 13:56:33 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:56:37 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:56:37 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:56:37 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:56:37 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 13:56:37 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:56:38 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:56:38 - root - INFO - display df is called >
+2024-08-02 13:56:38 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:56:40 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 13:57:04 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:57:04 - Create_spark - INFO - master is local[*]
+2024-08-02 13:57:13 - root - INFO - I am in the main method
+2024-08-02 13:57:13 - root - INFO - Object created! 3.5.0
+2024-08-02 13:57:13 - root - INFO - Validating spark object
+2024-08-02 13:57:13 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:57:18 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:57:18 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:57:18 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:57:18 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 13:57:18 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:57:18 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:57:18 - root - INFO - display df is called >
+2024-08-02 13:57:18 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:57:20 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 13:58:23 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 13:58:23 - Create_spark - INFO - master is local[*]
+2024-08-02 13:58:33 - root - INFO - I am in the main method
+2024-08-02 13:58:33 - root - INFO - Object created! 3.5.0
+2024-08-02 13:58:33 - root - INFO - Validating spark object
+2024-08-02 13:58:33 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 13:58:37 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 13:58:37 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 13:58:37 - root - INFO - Reading file which is of parquet >
+2024-08-02 13:58:37 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 13:58:37 - Ingest - WARNING - load_file method is started.....
+2024-08-02 13:58:38 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 13:58:38 - root - INFO - display df is called >
+2024-08-02 13:58:38 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 13:58:40 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 14:00:39 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:00:39 - Create_spark - INFO - master is local[*]
+2024-08-02 14:00:49 - root - INFO - I am in the main method
+2024-08-02 14:00:49 - root - INFO - Object created! 3.5.0
+2024-08-02 14:00:49 - root - INFO - Validating spark object
+2024-08-02 14:00:49 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:00:53 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:00:53 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:00:53 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:00:53 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:00:53 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:00:54 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:00:54 - root - INFO - display df is called >
+2024-08-02 14:00:54 - root - INFO - display 111df is called {} >
+2024-08-02 14:00:54 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 14:00:56 - root - ERROR - An error occurred when calling main() method. Please check the trace: Pandas >= 1.0.5 must be installed; however, it was not found.
+2024-08-02 14:05:04 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:05:04 - Create_spark - INFO - master is local[*]
+2024-08-02 14:05:21 - root - INFO - I am in the main method
+2024-08-02 14:05:21 - root - INFO - Object created! 3.5.0
+2024-08-02 14:05:21 - root - INFO - Validating spark object
+2024-08-02 14:05:21 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:05:30 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:05:30 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:05:30 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:05:30 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:05:30 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:05:31 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:05:31 - root - INFO - display df is called >
+2024-08-02 14:05:31 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 14:05:35 - root - INFO - display df is called {} >
+2024-08-02 14:05:35 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:05:36 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:05:36 - root - INFO - display df is called >
+2024-08-02 14:05:36 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 14:05:37 - root - INFO - count df is getting called >
+2024-08-02 14:05:37 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:05:38 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 14:07:03 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:07:03 - Create_spark - INFO - master is local[*]
+2024-08-02 14:07:15 - root - INFO - I am in the main method
+2024-08-02 14:07:15 - root - INFO - Object created! 3.5.0
+2024-08-02 14:07:15 - root - INFO - Validating spark object
+2024-08-02 14:07:15 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:07:21 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:07:21 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:07:21 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:07:21 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:07:21 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:07:22 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:07:22 - root - INFO - display df is called >
+2024-08-02 14:07:22 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 14:07:26 - root - INFO - display df is called {} >
+2024-08-02 14:07:26 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:07:27 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:07:27 - root - INFO - display df is called >
+2024-08-02 14:07:27 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 14:07:27 - root - INFO - count df is getting called >
+2024-08-02 14:07:27 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:07:28 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 14:08:56 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:08:56 - Create_spark - INFO - master is local[*]
+2024-08-02 14:09:06 - root - INFO - I am in the main method
+2024-08-02 14:09:06 - root - INFO - Object created! 3.5.0
+2024-08-02 14:09:06 - root - INFO - Validating spark object
+2024-08-02 14:09:06 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:09:11 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:09:11 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:09:11 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:09:11 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:09:11 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:09:12 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:09:12 - root - INFO - display df is called >
+2024-08-02 14:09:12 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 14:09:15 - root - INFO - display df is called {} >
+2024-08-02 14:09:15 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:09:16 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:09:16 - root - INFO - display df is called >
+2024-08-02 14:09:16 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 14:09:16 - root - INFO - count df is getting called >
+2024-08-02 14:09:16 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:09:17 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 14:10:06 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:10:06 - Create_spark - INFO - master is local[*]
+2024-08-02 14:10:16 - root - INFO - I am in the main method
+2024-08-02 14:10:16 - root - INFO - Object created! 3.5.0
+2024-08-02 14:10:16 - root - INFO - Validating spark object
+2024-08-02 14:10:16 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:10:21 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:10:21 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:10:21 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:10:21 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:10:21 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:10:21 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:10:21 - root - INFO - display df is called >
+2024-08-02 14:10:21 - Ingest - WARNING - Sample data from DataFrame 'df_ind'
+2024-08-02 14:10:24 - root - INFO - display df is called {} >
+2024-08-02 14:10:24 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:10:25 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:10:25 - root - INFO - display df is called >
+2024-08-02 14:10:25 - Ingest - WARNING - Sample data from DataFrame 'df_fact'
+2024-08-02 14:10:25 - root - INFO - count df is getting called >
+2024-08-02 14:10:25 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:10:25 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 14:11:53 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:11:53 - Create_spark - INFO - master is local[*]
+2024-08-02 14:12:03 - root - INFO - I am in the main method
+2024-08-02 14:12:03 - root - INFO - Object created! 3.5.0
+2024-08-02 14:12:03 - root - INFO - Validating spark object
+2024-08-02 14:12:03 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:12:07 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:12:07 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:12:07 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:12:07 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:12:07 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:12:08 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:12:08 - root - INFO - display df is called >
+2024-08-02 14:12:09 - Ingest - WARNING - Sample data from DataFrame 'df_ind:
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]'
+2024-08-02 14:12:10 - root - INFO - display df is called {} >
+2024-08-02 14:12:10 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:12:11 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:12:11 - root - INFO - display df is called >
+2024-08-02 14:12:11 - root - INFO - count df is getting called >
+2024-08-02 14:12:11 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:12:12 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 14:13:38 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 14:13:38 - Create_spark - INFO - master is local[*]
+2024-08-02 14:13:48 - root - INFO - I am in the main method
+2024-08-02 14:13:48 - root - INFO - Object created! 3.5.0
+2024-08-02 14:13:48 - root - INFO - Validating spark object
+2024-08-02 14:13:48 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 14:13:53 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 14:13:53 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 14:13:53 - root - INFO - Reading file which is of parquet >
+2024-08-02 14:13:53 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 14:13:53 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:13:53 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 14:13:53 - root - INFO - display df is called >
+2024-08-02 14:13:53 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 14:13:56 - root - INFO - display df is called {} >
+2024-08-02 14:13:56 - Ingest - WARNING - load_file method is started.....
+2024-08-02 14:13:57 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 14:13:57 - root - INFO - display df is called >
+2024-08-02 14:13:57 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 14:13:57 - root - INFO - count df is getting called >
+2024-08-02 14:13:57 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 14:13:58 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:10:38 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:10:38 - Create_spark - INFO - master is local[*]
+2024-08-02 16:10:49 - root - INFO - I am in the main method
+2024-08-02 16:10:49 - root - INFO - Object created! 3.5.0
+2024-08-02 16:10:49 - root - INFO - Validating spark object
+2024-08-02 16:10:49 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:10:54 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:10:54 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:10:54 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:10:54 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:10:54 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:10:55 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:10:55 - root - INFO - display df is called >
+2024-08-02 16:10:59 - root - INFO - display df is called {} >
+2024-08-02 16:10:59 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:10:59 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:10:59 - root - INFO - display df is called >
+2024-08-02 16:11:00 - root - INFO - count df is getting called >
+2024-08-02 16:11:00 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:11:00 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:14:31 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:14:31 - Create_spark - INFO - master is local[*]
+2024-08-02 16:14:41 - root - INFO - I am in the main method
+2024-08-02 16:14:41 - root - INFO - Object created! 3.5.0
+2024-08-02 16:14:41 - root - INFO - Validating spark object
+2024-08-02 16:14:41 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:14:46 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:14:46 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:14:46 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:14:46 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:14:46 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:14:47 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:14:47 - root - INFO - display df is called >
+2024-08-02 16:14:47 - root - INFO - display df is called {} >
+2024-08-02 16:14:47 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:14:49 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:14:49 - root - INFO - display df is called >
+2024-08-02 16:14:49 - root - INFO - count df is getting called >
+2024-08-02 16:14:49 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:14:50 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:15:42 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:15:42 - Create_spark - INFO - master is local[*]
+2024-08-02 16:15:51 - root - INFO - I am in the main method
+2024-08-02 16:15:51 - root - INFO - Object created! 3.5.0
+2024-08-02 16:15:51 - root - INFO - Validating spark object
+2024-08-02 16:15:51 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:15:55 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:15:55 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:15:55 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:15:55 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:15:55 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:15:56 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:15:56 - root - INFO - display df is called >
+2024-08-02 16:15:57 - root - INFO - display df is called {} >
+2024-08-02 16:15:57 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:15:59 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:15:59 - root - INFO - display df is called >
+2024-08-02 16:15:59 - root - INFO - count df is getting called >
+2024-08-02 16:15:59 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:15:59 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:17:36 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:17:36 - Create_spark - INFO - master is local[*]
+2024-08-02 16:17:45 - root - INFO - I am in the main method
+2024-08-02 16:17:45 - root - INFO - Object created! 3.5.0
+2024-08-02 16:17:45 - root - INFO - Validating spark object
+2024-08-02 16:17:45 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:17:49 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:17:49 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:17:49 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:17:49 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:17:49 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:17:50 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:17:50 - root - INFO - display df is called >
+2024-08-02 16:17:50 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 16:17:53 - root - INFO - display df is called {} >
+2024-08-02 16:17:53 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:17:53 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:17:53 - root - INFO - display df is called >
+2024-08-02 16:17:53 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 16:17:54 - root - INFO - count df is getting called >
+2024-08-02 16:17:54 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:17:54 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:18:59 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:18:59 - Create_spark - INFO - master is local[*]
+2024-08-02 16:19:09 - root - INFO - I am in the main method
+2024-08-02 16:19:09 - root - INFO - Object created! 3.5.0
+2024-08-02 16:19:09 - root - INFO - Validating spark object
+2024-08-02 16:19:09 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:19:14 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:19:14 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:19:14 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:19:14 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:19:14 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:19:14 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:19:14 - root - INFO - display df is called >
+2024-08-02 16:19:14 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:19:17 - root - INFO - display df is called {} >
+2024-08-02 16:19:17 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:19:18 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:19:18 - root - INFO - display df is called >
+2024-08-02 16:19:18 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:19:18 - root - INFO - count df is getting called >
+2024-08-02 16:19:18 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:19:19 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:20:51 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:20:51 - Create_spark - INFO - master is local[*]
+2024-08-02 16:21:01 - root - INFO - I am in the main method
+2024-08-02 16:21:01 - root - INFO - Object created! 3.5.0
+2024-08-02 16:21:01 - root - INFO - Validating spark object
+2024-08-02 16:21:01 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:21:05 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:21:05 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:21:05 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:21:05 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:21:05 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:21:05 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:21:05 - root - INFO - display df is called >
+2024-08-02 16:21:05 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:21:08 - root - ERROR - An error occurred when calling main() method. Please check the trace: 'DataFrame' object has no attribute 'show'
+2024-08-02 16:21:26 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:21:26 - Create_spark - INFO - master is local[*]
+2024-08-02 16:21:35 - root - INFO - I am in the main method
+2024-08-02 16:21:35 - root - INFO - Object created! 3.5.0
+2024-08-02 16:21:35 - root - INFO - Validating spark object
+2024-08-02 16:21:35 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:21:39 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:21:39 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:21:39 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:21:39 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:21:39 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:21:40 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:21:40 - root - INFO - display df is called >
+2024-08-02 16:21:40 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:21:43 - root - INFO - display df is called {} >
+2024-08-02 16:21:43 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:21:43 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:21:43 - root - INFO - display df is called >
+2024-08-02 16:21:43 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:21:44 - root - INFO - count df is getting called >
+2024-08-02 16:21:44 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:21:44 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:22:31 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:22:31 - Create_spark - INFO - master is local[*]
+2024-08-02 16:22:40 - root - INFO - I am in the main method
+2024-08-02 16:22:40 - root - INFO - Object created! 3.5.0
+2024-08-02 16:22:40 - root - INFO - Validating spark object
+2024-08-02 16:22:40 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:22:44 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:22:44 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:22:44 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:22:44 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:22:44 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:22:45 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:22:45 - root - INFO - display df is called >
+2024-08-02 16:22:45 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:22:48 - root - INFO - display df is called {} >
+2024-08-02 16:22:48 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:22:48 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:22:48 - root - INFO - display df is called >
+2024-08-02 16:22:48 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:22:49 - root - INFO - count df is getting called >
+2024-08-02 16:22:49 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:22:49 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:23:17 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:23:17 - Create_spark - INFO - master is local[*]
+2024-08-02 16:23:27 - root - INFO - I am in the main method
+2024-08-02 16:23:27 - root - INFO - Object created! 3.5.0
+2024-08-02 16:23:27 - root - INFO - Validating spark object
+2024-08-02 16:23:27 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:23:31 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:23:31 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:23:31 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:23:31 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:23:31 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:23:32 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:23:32 - root - INFO - display df is called >
+2024-08-02 16:23:32 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:23:33 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:23:34 - root - INFO - display df is called {} >
+2024-08-02 16:23:34 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:23:35 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:23:35 - root - INFO - display df is called >
+2024-08-02 16:23:35 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:23:35 - root - INFO - count df is getting called >
+2024-08-02 16:23:35 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:23:36 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:27:27 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:27:27 - Create_spark - INFO - master is local[*]
+2024-08-02 16:27:37 - root - INFO - I am in the main method
+2024-08-02 16:27:37 - root - INFO - Object created! 3.5.0
+2024-08-02 16:27:37 - root - INFO - Validating spark object
+2024-08-02 16:27:37 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:27:42 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:27:42 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:27:42 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:27:42 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:27:42 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:27:42 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:27:42 - root - INFO - display df is called >
+2024-08-02 16:27:42 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:27:44 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:27:45 - root - INFO - display df is called {} >
+2024-08-02 16:27:45 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:27:46 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:27:46 - root - INFO - display df is called >
+2024-08-02 16:27:46 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:27:47 - root - INFO - count df is getting called >
+2024-08-02 16:27:47 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:27:47 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:28:55 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:28:55 - Create_spark - INFO - master is local[*]
+2024-08-02 16:29:04 - root - INFO - I am in the main method
+2024-08-02 16:29:04 - root - INFO - Object created! 3.5.0
+2024-08-02 16:29:04 - root - INFO - Validating spark object
+2024-08-02 16:29:04 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:29:09 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:29:09 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:29:09 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:29:09 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:29:09 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:29:09 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:29:09 - root - INFO - display df is called >
+2024-08-02 16:29:09 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:29:12 - root - INFO - display df is called {} >
+2024-08-02 16:29:12 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:29:13 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:29:13 - root - INFO - display df is called >
+2024-08-02 16:29:13 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:29:13 - root - INFO - count df is getting called >
+2024-08-02 16:29:13 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:29:13 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:30:15 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:30:15 - Create_spark - INFO - master is local[*]
+2024-08-02 16:30:25 - root - INFO - I am in the main method
+2024-08-02 16:30:25 - root - INFO - Object created! 3.5.0
+2024-08-02 16:30:25 - root - INFO - Validating spark object
+2024-08-02 16:30:25 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:30:29 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:30:29 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:30:29 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:30:29 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:30:29 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:30:30 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:30:30 - root - INFO - display df is called >
+2024-08-02 16:30:30 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:30:32 - root - INFO - display df is called {} >
+2024-08-02 16:30:32 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:30:33 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:30:33 - root - INFO - display df is called >
+2024-08-02 16:30:33 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:30:33 - root - INFO - count df is getting called >
+2024-08-02 16:30:33 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:30:34 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:30:54 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:30:54 - Create_spark - INFO - master is local[*]
+2024-08-02 16:31:04 - root - INFO - I am in the main method
+2024-08-02 16:31:04 - root - INFO - Object created! 3.5.0
+2024-08-02 16:31:04 - root - INFO - Validating spark object
+2024-08-02 16:31:04 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:31:08 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:31:08 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:31:08 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:31:08 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:31:08 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:31:09 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:31:09 - root - INFO - display df is called >
+2024-08-02 16:31:09 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:31:10 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:31:12 - root - INFO - display df is called {} >
+2024-08-02 16:31:12 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:31:12 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:31:12 - root - INFO - display df is called >
+2024-08-02 16:31:12 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:31:13 - root - INFO - count df is getting called >
+2024-08-02 16:31:13 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:31:13 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:32:09 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:32:09 - Create_spark - INFO - master is local[*]
+2024-08-02 16:32:18 - root - INFO - I am in the main method
+2024-08-02 16:32:18 - root - INFO - Object created! 3.5.0
+2024-08-02 16:32:18 - root - INFO - Validating spark object
+2024-08-02 16:32:18 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:32:23 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:32:23 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:32:23 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:32:23 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:32:23 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:32:23 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:32:23 - root - INFO - display df is called >
+2024-08-02 16:32:23 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:32:24 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:32:26 - root - INFO - display df is called {} >
+2024-08-02 16:32:26 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:32:26 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:32:26 - root - INFO - display df is called >
+2024-08-02 16:32:27 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:32:27 - root - INFO - count df is getting called >
+2024-08-02 16:32:27 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:32:28 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:33:32 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:33:32 - Create_spark - INFO - master is local[*]
+2024-08-02 16:33:42 - root - INFO - I am in the main method
+2024-08-02 16:33:42 - root - INFO - Object created! 3.5.0
+2024-08-02 16:33:42 - root - INFO - Validating spark object
+2024-08-02 16:33:42 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:33:46 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:33:46 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:33:46 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:33:46 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:33:46 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:33:46 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:33:46 - root - INFO - display df is called >
+2024-08-02 16:33:46 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 16:33:46 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+DataFrame[_c0: string, _c1: string, _c2: string, _c3: string, _c4: string, _c5: string, _c6: string, _c7: string, _c8: string]
+2024-08-02 16:33:49 - root - INFO - display df is called {} >
+2024-08-02 16:33:49 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:33:49 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:33:49 - root - INFO - display df is called >
+2024-08-02 16:33:49 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 16:33:49 - Ingest - WARNING - Sample data from DataFrame 'df_fact':
+DataFrame[city: string, lat: double, lng: double, country: string, iso2: string, admin_name: string, capital: string, population: int, population_proper: int]
+2024-08-02 16:33:50 - root - INFO - count df is getting called >
+2024-08-02 16:33:50 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:33:50 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:35:18 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:35:18 - Create_spark - INFO - master is local[*]
+2024-08-02 16:35:27 - root - INFO - I am in the main method
+2024-08-02 16:35:27 - root - INFO - Object created! 3.5.0
+2024-08-02 16:35:27 - root - INFO - Validating spark object
+2024-08-02 16:35:27 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:35:32 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:35:32 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:35:32 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:35:32 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:35:32 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:35:33 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:35:33 - root - INFO - display df is called >
+2024-08-02 16:35:33 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 16:35:35 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+None
+2024-08-02 16:35:36 - root - INFO - display df is called {} >
+2024-08-02 16:35:36 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:35:36 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:35:36 - root - INFO - display df is called >
+2024-08-02 16:35:36 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 16:35:37 - Ingest - WARNING - Sample data from DataFrame 'df_fact':
+None
+2024-08-02 16:35:37 - root - INFO - count df is getting called >
+2024-08-02 16:35:37 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:35:37 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:36:13 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:36:13 - Create_spark - INFO - master is local[*]
+2024-08-02 16:36:23 - root - INFO - I am in the main method
+2024-08-02 16:36:23 - root - INFO - Object created! 3.5.0
+2024-08-02 16:36:23 - root - INFO - Validating spark object
+2024-08-02 16:36:23 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:36:27 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:36:27 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:36:27 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:36:27 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:36:27 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:36:28 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:36:28 - root - INFO - display df is called >
+2024-08-02 16:36:28 - Ingest - WARNING - Showing Dataframe df_ind
+2024-08-02 16:36:29 - Ingest - WARNING - Sample data from DataFrame 'df_ind':
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:36:31 - root - INFO - display df is called {} >
+2024-08-02 16:36:31 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:36:32 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:36:32 - root - INFO - display df is called >
+2024-08-02 16:36:32 - Ingest - WARNING - Showing Dataframe df_fact
+2024-08-02 16:36:32 - root - INFO - count df is getting called >
+2024-08-02 16:36:32 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:36:33 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:37:46 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:37:46 - Create_spark - INFO - master is local[*]
+2024-08-02 16:37:56 - root - INFO - I am in the main method
+2024-08-02 16:37:56 - root - INFO - Object created! 3.5.0
+2024-08-02 16:37:56 - root - INFO - Validating spark object
+2024-08-02 16:37:56 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:38:00 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:38:00 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:38:00 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:38:00 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:38:00 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:38:00 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:38:00 - root - INFO - display df is called >
+2024-08-02 16:38:01 - root - INFO - display df is called {} >
+2024-08-02 16:38:01 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:38:03 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:38:03 - root - INFO - display df is called >
+2024-08-02 16:38:03 - root - INFO - count df is getting called >
+2024-08-02 16:38:03 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:38:04 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:38:50 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:38:50 - Create_spark - INFO - master is local[*]
+2024-08-02 16:38:59 - root - INFO - I am in the main method
+2024-08-02 16:38:59 - root - INFO - Object created! 3.5.0
+2024-08-02 16:38:59 - root - INFO - Validating spark object
+2024-08-02 16:38:59 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:39:03 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:39:03 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:39:03 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:39:03 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:39:03 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:39:04 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:39:04 - root - INFO - display df is called >
+2024-08-02 16:39:06 - root - INFO - display df is called {} >
+2024-08-02 16:39:06 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:39:07 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:39:07 - root - INFO - display df is called >
+2024-08-02 16:39:07 - root - INFO - count df is getting called >
+2024-08-02 16:39:07 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:39:07 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:39:22 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:39:22 - Create_spark - INFO - master is local[*]
+2024-08-02 16:39:33 - root - INFO - I am in the main method
+2024-08-02 16:39:33 - root - INFO - Object created! 3.5.0
+2024-08-02 16:39:33 - root - INFO - Validating spark object
+2024-08-02 16:39:33 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:39:37 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:39:37 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:39:37 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:39:37 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:39:37 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:39:38 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:39:38 - root - INFO - display df is called >
+2024-08-02 16:39:40 - root - INFO - display df is called {} >
+2024-08-02 16:39:40 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:39:41 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:39:41 - root - INFO - display df is called >
+2024-08-02 16:39:41 - root - INFO - count df is getting called >
+2024-08-02 16:39:41 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:39:42 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:40:44 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:40:44 - Create_spark - INFO - master is local[*]
+2024-08-02 16:40:55 - root - INFO - I am in the main method
+2024-08-02 16:40:55 - root - INFO - Object created! 3.5.0
+2024-08-02 16:40:55 - root - INFO - Validating spark object
+2024-08-02 16:40:55 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:40:59 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:40:59 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:40:59 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:40:59 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:40:59 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:41:00 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:41:00 - root - INFO - display df is called >
+2024-08-02 16:41:01 - root - INFO - display df is called {} >
+2024-08-02 16:41:01 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:41:03 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:41:03 - root - INFO - display df is called >
+2024-08-02 16:41:03 - root - INFO - count df is getting called >
+2024-08-02 16:41:03 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:41:03 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:41:31 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:41:31 - Create_spark - INFO - master is local[*]
+2024-08-02 16:41:40 - root - INFO - I am in the main method
+2024-08-02 16:41:40 - root - INFO - Object created! 3.5.0
+2024-08-02 16:41:40 - root - INFO - Validating spark object
+2024-08-02 16:41:40 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:41:44 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:41:44 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:41:44 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:41:44 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:41:44 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:41:45 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:41:45 - root - INFO - display df is called >
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000001', '_c1': '05-26-2011', '_c2': '4006742', '_c3': '198.44', '_c4': 'Exercise & Fitness', '_c5': 'Weightlifting Gloves', '_c6': 'Long Beach', '_c7': 'California', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000002', '_c1': '06-01-2011', '_c2': '4009775', '_c3': '005.58', '_c4': 'Exercise & Fitness', '_c5': 'Weightlifting Machine Accessories', '_c6': 'Anaheim', '_c7': 'California', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000003', '_c1': '06-05-2011', '_c2': '4002199', '_c3': '198.19', '_c4': 'Gymnastics', '_c5': 'Gymnastics Rings', '_c6': 'Milwaukee', '_c7': 'Wisconsin', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000004', '_c1': '12-17-2011', '_c2': '4002613', '_c3': '098.81', '_c4': 'Team Sports', '_c5': 'Field Hockey', '_c6': 'Nashville', '_c7': 'Tennessee', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000005', '_c1': '02-14-2011', '_c2': '4007591', '_c3': '193.63', '_c4': 'Outdoor Recreation', '_c5': 'Camping & Backpacking & Hiking', '_c6': 'Chicago', '_c7': 'Illinois', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000006', '_c1': '10-28-2011', '_c2': '4002190', '_c3': '027.89', '_c4': 'Puzzles', '_c5': 'Jigsaw Puzzles', '_c6': 'Charleston', '_c7': 'South Carolina', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000007', '_c1': '07-14-2011', '_c2': '4002964', '_c3': '096.01', '_c4': 'Outdoor Play Equipment', '_c5': 'Sandboxes', '_c6': 'Columbus', '_c7': 'Ohio', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000008', '_c1': '01-17-2011', '_c2': '4007361', '_c3': '010.44', '_c4': 'Winter Sports', '_c5': 'Snowmobiling', '_c6': 'Des Moines', '_c7': 'Iowa', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000009', '_c1': '05-17-2011', '_c2': '4004798', '_c3': '152.46', '_c4': 'Jumping', '_c5': 'Bungee Jumping', '_c6': 'St. Petersburg', '_c7': 'Florida', '_c8': 'credit'}
+2024-08-02 16:41:46 - Ingest - WARNING - Row: {'_c0': '00000010', '_c1': '05-29-2011', '_c2': '4004646', '_c3': '180.28', '_c4': 'Outdoor Recreation', '_c5': 'Archery', '_c6': 'Reno', '_c7': 'Nevada', '_c8': 'credit'}
+2024-08-02 16:41:46 - root - INFO - display df is called {} >
+2024-08-02 16:41:46 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:41:47 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:41:47 - root - INFO - display df is called >
+2024-08-02 16:41:47 - Ingest - WARNING - Row: {'city': 'Delhi', 'lat': 28.61, 'lng': 77.23, 'country': 'India', 'iso2': 'IN', 'admin_name': 'Delhi', 'capital': 'admin', 'population': 32226000, 'population_proper': 16753235}
+2024-08-02 16:41:47 - Ingest - WARNING - Row: {'city': 'Prayagraj', 'lat': 25.4358, 'lng': 81.8464, 'country': 'India', 'iso2': 'IN', 'admin_name': 'Uttar Pradesh', 'capital': None, 'population': 5954391, 'population_proper': 5954391}
+2024-08-02 16:41:47 - root - INFO - count df is getting called >
+2024-08-02 16:41:47 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:41:48 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:43:21 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:43:21 - Create_spark - INFO - master is local[*]
+2024-08-02 16:43:31 - root - INFO - I am in the main method
+2024-08-02 16:43:31 - root - INFO - Object created! 3.5.0
+2024-08-02 16:43:31 - root - INFO - Validating spark object
+2024-08-02 16:43:31 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:43:35 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:43:35 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:43:35 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:43:35 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:43:35 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:43:36 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:43:36 - root - INFO - display df is called >
+2024-08-02 16:43:36 - Ingest - WARNING - DataFrame[_c0: string, _c1: string, _c2: string, _c3: string, _c4: string, _c5: string, _c6: string, _c7: string, _c8: string]
+2024-08-02 16:43:36 - root - INFO - display df is called {} >
+2024-08-02 16:43:36 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:43:38 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:43:38 - root - INFO - display df is called >
+2024-08-02 16:43:38 - Ingest - WARNING - DataFrame[city: string, lat: double, lng: double, country: string, iso2: string, admin_name: string, capital: string, population: int, population_proper: int]
+2024-08-02 16:43:38 - root - INFO - count df is getting called >
+2024-08-02 16:43:38 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:43:39 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:45:15 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:45:15 - Create_spark - INFO - master is local[*]
+2024-08-02 16:45:25 - root - INFO - I am in the main method
+2024-08-02 16:45:25 - root - INFO - Object created! 3.5.0
+2024-08-02 16:45:25 - root - INFO - Validating spark object
+2024-08-02 16:45:25 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:45:29 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:45:29 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:45:29 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:45:29 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:45:29 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:45:30 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:45:30 - root - INFO - display df is called >
+2024-08-02 16:45:30 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:45:34 - root - INFO - display df is called {} >
+2024-08-02 16:45:34 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:45:35 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:45:35 - root - INFO - display df is called >
+2024-08-02 16:45:35 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:45:35 - root - INFO - count df is getting called >
+2024-08-02 16:45:35 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:45:36 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:45:41 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:45:41 - Create_spark - INFO - master is local[*]
+2024-08-02 16:45:51 - root - INFO - I am in the main method
+2024-08-02 16:45:51 - root - INFO - Object created! 3.5.0
+2024-08-02 16:45:51 - root - INFO - Validating spark object
+2024-08-02 16:45:51 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:45:55 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:45:55 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:45:55 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:45:55 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:45:55 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:45:56 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:45:56 - root - INFO - display df is called >
+2024-08-02 16:45:56 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:45:59 - root - INFO - display df is called {} >
+2024-08-02 16:45:59 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:45:59 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:45:59 - root - INFO - display df is called >
+2024-08-02 16:45:59 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:46:00 - root - INFO - count df is getting called >
+2024-08-02 16:46:00 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:46:00 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:46:30 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:46:30 - Create_spark - INFO - master is local[*]
+2024-08-02 16:46:40 - root - INFO - I am in the main method
+2024-08-02 16:46:40 - root - INFO - Object created! 3.5.0
+2024-08-02 16:46:40 - root - INFO - Validating spark object
+2024-08-02 16:46:40 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:46:44 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:46:44 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:46:44 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:46:44 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:46:44 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:46:45 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:46:45 - root - INFO - display df is called >
+2024-08-02 16:46:45 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:46:47 - Ingest - WARNING - Sample data from DataFrame:
+        _c0         _c1      _c2  ...         _c6         _c7     _c8
+0  00000001  05-26-2011  4006742  ...  Long Beach  California  credit
+1  00000002  06-01-2011  4009775  ...     Anaheim  California  credit
+2  00000003  06-05-2011  4002199  ...   Milwaukee   Wisconsin  credit
+3  00000004  12-17-2011  4002613  ...   Nashville   Tennessee  credit
+4  00000005  02-14-2011  4007591  ...     Chicago    Illinois  credit
+
+[5 rows x 9 columns]
+2024-08-02 16:46:47 - root - INFO - display df is called {} >
+2024-08-02 16:46:47 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:46:48 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:46:48 - root - INFO - display df is called >
+2024-08-02 16:46:48 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:46:48 - root - INFO - count df is getting called >
+2024-08-02 16:46:48 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:46:49 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 16:47:33 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 16:47:33 - Create_spark - INFO - master is local[*]
+2024-08-02 16:47:44 - root - INFO - I am in the main method
+2024-08-02 16:47:44 - root - INFO - Object created! 3.5.0
+2024-08-02 16:47:44 - root - INFO - Validating spark object
+2024-08-02 16:47:44 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 16:47:49 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 16:47:49 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 16:47:49 - root - INFO - Reading file which is of parquet >
+2024-08-02 16:47:49 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 16:47:49 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:47:50 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 16:47:50 - root - INFO - display df is called >
+2024-08-02 16:47:50 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 16:47:52 - root - INFO - display df is called {} >
+2024-08-02 16:47:52 - Ingest - WARNING - load_file method is started.....
+2024-08-02 16:47:53 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 16:47:53 - root - INFO - display df is called >
+2024-08-02 16:47:53 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 16:47:53 - root - INFO - count df is getting called >
+2024-08-02 16:47:53 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 16:47:54 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:03:06 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:03:06 - Create_spark - INFO - master is local[*]
+2024-08-02 17:03:16 - root - INFO - I am in the main method
+2024-08-02 17:03:16 - root - INFO - Object created! 3.5.0
+2024-08-02 17:03:16 - root - INFO - Validating spark object
+2024-08-02 17:03:16 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:03:21 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:03:21 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:03:21 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:03:21 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:03:21 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:03:22 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:03:22 - root - INFO - display df is called >
+2024-08-02 17:03:22 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:03:24 - root - INFO - display df is called {} >
+2024-08-02 17:03:24 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:03:25 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:03:25 - root - INFO - display df is called >
+2024-08-02 17:03:25 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:03:25 - root - INFO - count df is getting called >
+2024-08-02 17:03:25 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:03:25 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:03:25 - root - INFO - drop null is getting called
+2024-08-02 17:03:25 - root - ERROR - An error occurred when calling main() method. Please check the trace: 'DataFrame' object has no attribute 'dropDulicates'
+2024-08-02 17:04:49 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:04:49 - Create_spark - INFO - master is local[*]
+2024-08-02 17:04:59 - root - INFO - I am in the main method
+2024-08-02 17:04:59 - root - INFO - Object created! 3.5.0
+2024-08-02 17:04:59 - root - INFO - Validating spark object
+2024-08-02 17:04:59 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:05:04 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:05:04 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:05:04 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:05:04 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:05:04 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:05:05 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:05:05 - root - INFO - display df is called >
+2024-08-02 17:05:05 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:05:07 - root - INFO - display df is called {} >
+2024-08-02 17:05:07 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:05:07 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:05:07 - root - INFO - display df is called >
+2024-08-02 17:05:07 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:05:08 - root - INFO - count df is getting called >
+2024-08-02 17:05:08 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:05:08 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:05:08 - root - INFO - drop null is getting called
+2024-08-02 17:05:52 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:05:52 - Create_spark - INFO - master is local[*]
+2024-08-02 17:06:01 - root - INFO - I am in the main method
+2024-08-02 17:06:01 - root - INFO - Object created! 3.5.0
+2024-08-02 17:06:01 - root - INFO - Validating spark object
+2024-08-02 17:06:01 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:06:05 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:06:05 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:06:05 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:06:05 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:06:05 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:06:06 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:06:06 - root - INFO - display df is called >
+2024-08-02 17:06:06 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:06:08 - root - INFO - display df is called {} >
+2024-08-02 17:06:08 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:06:09 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:06:09 - root - INFO - display df is called >
+2024-08-02 17:06:09 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:06:09 - root - INFO - count df is getting called >
+2024-08-02 17:06:09 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:06:10 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:06:10 - root - INFO - drop null is getting called
+2024-08-02 17:07:24 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:07:24 - Create_spark - INFO - master is local[*]
+2024-08-02 17:07:33 - root - INFO - I am in the main method
+2024-08-02 17:07:33 - root - INFO - Object created! 3.5.0
+2024-08-02 17:07:33 - root - INFO - Validating spark object
+2024-08-02 17:07:33 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:07:37 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:07:37 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:07:37 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:07:37 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:07:37 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:07:38 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:07:38 - root - INFO - display df is called >
+2024-08-02 17:07:38 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:07:40 - root - INFO - display df is called {} >
+2024-08-02 17:07:40 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:07:41 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:07:41 - root - INFO - display df is called >
+2024-08-02 17:07:41 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:07:41 - root - INFO - count df is getting called >
+2024-08-02 17:07:41 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:07:41 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:07:41 - root - INFO - drop null is getting called
+2024-08-02 17:10:10 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:10:10 - Create_spark - INFO - master is local[*]
+2024-08-02 17:10:20 - root - INFO - I am in the main method
+2024-08-02 17:10:20 - root - INFO - Object created! 3.5.0
+2024-08-02 17:10:20 - root - INFO - Validating spark object
+2024-08-02 17:10:20 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:10:24 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:10:24 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:10:24 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:10:24 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:10:24 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:10:25 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:10:25 - root - INFO - display df is called >
+2024-08-02 17:10:25 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:10:27 - root - INFO - display df is called {} >
+2024-08-02 17:10:27 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:10:27 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:10:27 - root - INFO - display df is called >
+2024-08-02 17:10:27 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:10:27 - root - INFO - count df is getting called >
+2024-08-02 17:10:27 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:10:28 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:10:28 - root - INFO - drop null is getting called
+2024-08-02 17:12:38 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:12:38 - Create_spark - INFO - master is local[*]
+2024-08-02 17:12:48 - root - INFO - I am in the main method
+2024-08-02 17:12:48 - root - INFO - Object created! 3.5.0
+2024-08-02 17:12:48 - root - INFO - Validating spark object
+2024-08-02 17:12:48 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:12:52 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:12:52 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:12:52 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:12:52 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:12:52 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:12:53 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:12:53 - root - INFO - display df is called >
+2024-08-02 17:12:53 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:12:55 - root - INFO - display df is called {} >
+2024-08-02 17:12:55 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:12:56 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:12:56 - root - INFO - display df is called >
+2024-08-02 17:12:56 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:12:56 - root - INFO - count df is getting called >
+2024-08-02 17:12:56 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:12:56 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:12:56 - root - INFO - drop null is getting called
+2024-08-02 17:15:44 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:15:44 - Create_spark - INFO - master is local[*]
+2024-08-02 17:15:53 - root - INFO - I am in the main method
+2024-08-02 17:15:53 - root - INFO - Object created! 3.5.0
+2024-08-02 17:15:53 - root - INFO - Validating spark object
+2024-08-02 17:15:53 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:15:58 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:15:58 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:15:58 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:15:58 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:15:58 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:15:58 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:15:58 - root - INFO - display df is called >
+2024-08-02 17:15:58 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:16:00 - root - INFO - display df is called {} >
+2024-08-02 17:16:00 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:16:01 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:16:01 - root - INFO - display df is called >
+2024-08-02 17:16:01 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:16:01 - root - INFO - count df is getting called >
+2024-08-02 17:16:01 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:16:02 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:16:02 - root - INFO - drop null is getting called
+2024-08-02 17:16:02 - root - ERROR - An error occurred when calling main() method. Please check the trace: name 'logger1' is not defined
+2024-08-02 17:16:20 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:16:20 - Create_spark - INFO - master is local[*]
+2024-08-02 17:16:29 - root - INFO - I am in the main method
+2024-08-02 17:16:29 - root - INFO - Object created! 3.5.0
+2024-08-02 17:16:29 - root - INFO - Validating spark object
+2024-08-02 17:16:29 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:16:33 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:16:33 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:16:33 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:16:33 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:16:33 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:16:34 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:16:34 - root - INFO - display df is called >
+2024-08-02 17:16:34 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:16:36 - root - INFO - display df is called {} >
+2024-08-02 17:16:36 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:16:37 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:16:37 - root - INFO - display df is called >
+2024-08-02 17:16:37 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:16:37 - root - INFO - count df is getting called >
+2024-08-02 17:16:37 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:16:37 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:16:37 - root - INFO - drop null is getting called
+2024-08-02 17:16:37 - root - ERROR - An error occurred when calling main() method. Please check the trace: name 'logger1' is not defined
+2024-08-02 17:18:56 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:18:56 - Create_spark - INFO - master is local[*]
+2024-08-02 17:19:06 - root - INFO - I am in the main method
+2024-08-02 17:19:06 - root - INFO - Object created! 3.5.0
+2024-08-02 17:19:06 - root - INFO - Validating spark object
+2024-08-02 17:19:06 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:19:11 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:19:11 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:19:11 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:19:11 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:19:11 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:19:12 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:19:12 - root - INFO - display df is called >
+2024-08-02 17:19:12 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:19:13 - root - INFO - display df is called {} >
+2024-08-02 17:19:13 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:19:14 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:19:14 - root - INFO - display df is called >
+2024-08-02 17:19:14 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:19:14 - root - INFO - count df is getting called >
+2024-08-02 17:19:14 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:19:15 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:19:15 - root - INFO - drop null is getting called
+2024-08-02 17:19:15 - Processing - WARNING - Starting to drop null values from the DataFrame.
+2024-08-02 17:19:15 - Processing - WARNING - drop_null method executed successfully.
+2024-08-02 17:22:14 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:22:14 - Create_spark - INFO - master is local[*]
+2024-08-02 17:22:24 - root - INFO - I am in the main method
+2024-08-02 17:22:24 - root - INFO - Object created! 3.5.0
+2024-08-02 17:22:24 - root - INFO - Validating spark object
+2024-08-02 17:22:24 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:22:28 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:22:28 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:22:28 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:22:28 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:22:28 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:22:29 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:22:29 - root - INFO - display df is called >
+2024-08-02 17:22:29 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:22:31 - root - INFO - display df is called {} >
+2024-08-02 17:22:31 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:22:32 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:22:32 - root - INFO - display df is called >
+2024-08-02 17:22:32 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:22:32 - root - INFO - count df is getting called >
+2024-08-02 17:22:32 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:22:32 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:22:32 - root - INFO - drop null is getting called
+2024-08-02 17:22:32 - Processing - WARNING - Starting to drop null values from the DataFrame.
+2024-08-02 17:22:33 - Processing - WARNING - drop_null method executed successfully.
+2024-08-02 17:38:29 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:38:29 - Create_spark - INFO - master is local[*]
+2024-08-02 17:38:39 - root - INFO - I am in the main method
+2024-08-02 17:38:39 - root - INFO - Object created! 3.5.0
+2024-08-02 17:38:39 - root - INFO - Validating spark object
+2024-08-02 17:38:39 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:38:44 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:38:44 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:38:44 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:38:44 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:38:44 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:38:44 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:38:44 - root - INFO - display df is called >
+2024-08-02 17:38:44 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:38:46 - root - INFO - display df is called {} >
+2024-08-02 17:38:46 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:38:47 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:38:47 - root - INFO - display df is called >
+2024-08-02 17:38:47 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:38:47 - root - INFO - count df is getting called >
+2024-08-02 17:38:47 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:38:48 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:38:48 - root - INFO - get procesed df ...........>
+2024-08-02 17:38:48 - Processing - WARNING - Starting to drop null values from the DataFrame.
+2024-08-02 17:38:48 - Processing - ERROR - An error occurred while dropping null values: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:38:48 - root - ERROR - An error occurred when calling main() method. Please check the trace: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:40:40 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:40:40 - Create_spark - INFO - master is local[*]
+2024-08-02 17:40:50 - root - INFO - I am in the main method
+2024-08-02 17:40:50 - root - INFO - Object created! 3.5.0
+2024-08-02 17:40:50 - root - INFO - Validating spark object
+2024-08-02 17:40:50 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:40:54 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:40:54 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:40:54 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:40:54 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:40:54 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:40:55 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:40:55 - root - INFO - display df is called >
+2024-08-02 17:40:55 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:40:57 - root - INFO - display df is called {} >
+2024-08-02 17:40:57 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:40:58 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:40:58 - root - INFO - display df is called >
+2024-08-02 17:40:58 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:40:58 - root - INFO - count df is getting called >
+2024-08-02 17:40:58 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:40:58 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:40:58 - root - INFO - get procesed df ...........>
+2024-08-02 17:40:58 - Processing - WARNING - the DataFrame processing.
+2024-08-02 17:40:58 - Processing - ERROR - An error occurred while dropping null values: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:40:58 - root - ERROR - An error occurred when calling main() method. Please check the trace: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:41:43 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:41:43 - Create_spark - INFO - master is local[*]
+2024-08-02 17:41:52 - root - INFO - I am in the main method
+2024-08-02 17:41:52 - root - INFO - Object created! 3.5.0
+2024-08-02 17:41:52 - root - INFO - Validating spark object
+2024-08-02 17:41:52 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:41:56 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:41:56 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:41:56 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:41:56 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:41:56 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:41:57 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:41:57 - root - INFO - display df is called >
+2024-08-02 17:41:57 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:41:59 - root - INFO - display df is called {} >
+2024-08-02 17:41:59 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:42:00 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:42:00 - root - INFO - display df is called >
+2024-08-02 17:42:00 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:42:00 - root - INFO - count df is getting called >
+2024-08-02 17:42:00 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:42:01 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:42:01 - root - INFO - get procesed df ...........>
+2024-08-02 17:42:01 - Processing - WARNING - the DataFrame processing.
+2024-08-02 17:42:01 - Processing - ERROR - An error occurred while dropping null values: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:42:01 - root - ERROR - An error occurred when calling main() method. Please check the trace: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:42:12 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:42:12 - Create_spark - INFO - master is local[*]
+2024-08-02 17:42:22 - root - INFO - I am in the main method
+2024-08-02 17:42:22 - root - INFO - Object created! 3.5.0
+2024-08-02 17:42:22 - root - INFO - Validating spark object
+2024-08-02 17:42:22 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:42:26 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:42:26 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:42:26 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:42:26 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:42:26 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:42:27 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:42:27 - root - INFO - display df is called >
+2024-08-02 17:42:27 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:42:29 - root - INFO - display df is called {} >
+2024-08-02 17:42:29 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:42:29 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:42:29 - root - INFO - display df is called >
+2024-08-02 17:42:29 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:42:30 - root - INFO - count df is getting called >
+2024-08-02 17:42:30 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:42:30 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:42:30 - root - INFO - get procesed df ...........>
+2024-08-02 17:42:30 - Processing - WARNING - the DataFrame processing.
+2024-08-02 17:42:30 - Processing - ERROR - An error occurred while dropping null values: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:42:30 - root - ERROR - An error occurred when calling main() method. Please check the trace: [NOT_ITERABLE] Column is not iterable.
+2024-08-02 17:45:18 - Create_spark - INFO - get_spark_object method started.....
+2024-08-02 17:45:18 - Create_spark - INFO - master is local[*]
+2024-08-02 17:45:28 - root - INFO - I am in the main method
+2024-08-02 17:45:28 - root - INFO - Object created! 3.5.0
+2024-08-02 17:45:28 - root - INFO - Validating spark object
+2024-08-02 17:45:28 - Validate - WARNING - Started the get_current_date method.....
+2024-08-02 17:45:32 - Validate - WARNING - Validating spark object with created date time: [Row(current_date()=datetime.date(2024, 8, 2))]
+2024-08-02 17:45:32 - Validate - WARNING - Validation done...., go forward.....
+2024-08-02 17:45:32 - root - INFO - Reading file which is of parquet >
+2024-08-02 17:45:32 - root - INFO - Reading file2 which is of parquet >
+2024-08-02 17:45:32 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:45:33 - Ingest - WARNING - Dataframe created successfully...! and format is: parquet
+2024-08-02 17:45:33 - root - INFO - display df is called >
+2024-08-02 17:45:33 - Ingest - WARNING - Showing Dataframe df_ind:['_c0', '_c1', '_c2', '_c3', '_c4', '_c5', '_c6', '_c7', '_c8']
+2024-08-02 17:45:35 - root - INFO - display df is called {} >
+2024-08-02 17:45:35 - Ingest - WARNING - load_file method is started.....
+2024-08-02 17:45:36 - Ingest - WARNING - Dataframe created successfully...! and format is: csv
+2024-08-02 17:45:36 - root - INFO - display df is called >
+2024-08-02 17:45:36 - Ingest - WARNING - Showing Dataframe df_fact:['city', 'lat', 'lng', 'country', 'iso2', 'admin_name', 'capital', 'population', 'population_proper']
+2024-08-02 17:45:36 - root - INFO - count df is getting called >
+2024-08-02 17:45:36 - Ingest - WARNING - number of records in dataframe : df_fact
+2024-08-02 17:45:36 - Ingest - WARNING - Numbers of records present in df_fact are 150 
+2024-08-02 17:45:36 - root - INFO - get procesed df ...........>
+2024-08-02 17:45:36 - Processing - WARNING - the DataFrame processing.
+2024-08-02 17:45:37 - Processing - WARNING - df processed successfully.
